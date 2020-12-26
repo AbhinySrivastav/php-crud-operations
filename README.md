@@ -21,7 +21,9 @@ CRUD is an acronym for Create, Read, Update, and Delete. CRUD operations are bas
 5. Open you project with localhost and enjoy!!!
 
 # Login
-![alt text](https://github.com/ankur-tiwari/php-crud-with-login/blob/master/screenshot/login.png?raw=true)
+![alt text](https://github.com/Anoop-sharma1
+/
+php-crud-operations/blob/master/screenshot/login?raw=true)
 
 # Dashboard
 ![alt text](https://github.com/ankur-tiwari/php-crud-with-login/blob/master/screenshot/dashboard.png?raw=true)
