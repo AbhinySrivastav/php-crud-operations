@@ -35,7 +35,7 @@ CRUD is an acronym for Create, Read, Update, and Delete. CRUD operations are bas
 
 ## Social Link
 
-<a href="https://www.linkedin.com/in/tiwariankur77/">
+<a href="https://www.linkedin.com/in/anoop-sharma-27a90a143/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ankur-tiwari/">
