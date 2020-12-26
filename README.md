@@ -24,13 +24,13 @@ CRUD is an acronym for Create, Read, Update, and Delete. CRUD operations are bas
 ![alt text](https://github.com/Anoop-sharma1/php-crud-operations/blob/master/screenshots/login.png?raw=true)
 
 # Dashboard
-![alt text](https://github.com/ankur-tiwari/php-crud-with-login/blob/master/screenshot/dashboard.png?raw=true)
+![alt text](https://github.com/Anoop-sharma1/php-crud-operations/blob/master/screenshots/dashboard.png?raw=true)
 
 # Add User
-![alt text](https://github.com/ankur-tiwari/php-crud-with-login/blob/master/screenshot/add-user.png?raw=true)
+![alt text](https://github.com/Anoop-sharma1/php-crud-operations/blob/master/screenshots/adduser.png?raw=true)
 
 # Edit User
-![alt text](https://github.com/ankur-tiwari/php-crud-with-login/blob/master/screenshot/edit-user.png?raw=true)
+![alt text](https://github.com/Anoop-sharma1/php-crud-operations/blob/master/screenshots/edituser.png?raw=true)
 
 
 ## Social Link
