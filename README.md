@@ -38,12 +38,12 @@ CRUD is an acronym for Create, Read, Update, and Delete. CRUD operations are bas
 <a href="https://www.linkedin.com/in/anoop-sharma-27a90a143/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/ankur-tiwari/">
+<a href="https://github.com/Anoop-sharma1/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
-<a href="https://www.instagram.com/tiwariankur29/">
+<a href="https://www.instagram.com/_anoopsharma_/">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
-<a href="https://www.facebook.com/ankurtiwariIt">
+<a href="https://www.facebook.com/sanoop64/">
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 
